@@ -12,3 +12,4 @@ scikit-learn
 scipy
 Shapely
 tqdm
+setuptools==39.1.0
